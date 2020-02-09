@@ -15,7 +15,7 @@ public class BubbleSrt {
                 }
     }
  
-    /* Prints the array */
+    
     void printArray(int arr[])
     {
         int n = arr.length;
